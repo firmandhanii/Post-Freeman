@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Producer (Katalon kirim data langsung ke Kafka)</description>
+   <name>ODL-001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e1556d5-e62d-416d-9298-2e49a2820e46</testCaseGuid>
+</TestCaseEntity>

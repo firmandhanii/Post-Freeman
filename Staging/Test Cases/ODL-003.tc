@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kafka Consumer = Test Case Katalon terpisah untuk baca data dari Kafka (verifikasi data dari POST API tadi masuk)</description>
+   <name>ODL-003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6cd26fc2-cb6b-4518-91b9-9b9e234e988b</testCaseGuid>
+</TestCaseEntity>

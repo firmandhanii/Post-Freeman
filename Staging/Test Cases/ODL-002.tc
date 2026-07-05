@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>POST API Test Case Katalon untuk nembak API Node.js port 3000:</description>
+   <name>ODL-002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ea87a13-7630-4c9f-89e3-f13e4b797619</testCaseGuid>
+</TestCaseEntity>

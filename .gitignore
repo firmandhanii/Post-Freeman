@@ -1,0 +1,20 @@
+# Ignore root duplicates / temporary files
+/WhatsApp Image 2026-06-30 at 11.13.17.jpeg
+/kafka-clients-3.4.0.jar
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Katalon Studio specific ignores (defined for Staging folder)
+Staging/.gradle/
+Staging/bin/
+Staging/Reports/
+Staging/Libs/
+Staging/output/
+Staging/build/
+Staging/.classpath
+Staging/.project
+Staging/.cache/
+Staging/settings/system/execution/
+Staging/console.properties
